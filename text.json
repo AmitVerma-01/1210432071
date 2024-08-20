@@ -1,0 +1,23 @@
+{
+    "companyName": "BBD University",
+    "clientID": "3ac2e72f-fa2e-48d2-b4e7-1c57fc48b8f3",
+    "clientSecret": "wJterXzNEerqbXKy",
+    "ownerName": "Amit Verma",
+    "ownerEmail": "amitvermaup57@gmail.com",
+    "rollNo": "1210432071"
+}
+
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0MTYwNTg3LCJpYXQiOjE3MjQxNjAyODcsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjNhYzJlNzJmLWZhMmUtNDhkMi1iNGU3LTFjNTdmYzQ4YjhmMyIsInN1YiI6ImFtaXR2ZXJtYXVwNTdAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoiQkJEIFVuaXZlcnNpdHkiLCJjbGllbnRJRCI6IjNhYzJlNzJmLWZhMmUtNDhkMi1iNGU3LTFjNTdmYzQ4YjhmMyIsImNsaWVudFNlY3JldCI6IndKdGVyWHpORWVycWJYS3kiLCJvd25lck5hbWUiOiJBbWl0IFZlcm1hIiwib3duZXJFbWFpbCI6ImFtaXR2ZXJtYXVwNTdAZ21haWwuY29tIiwicm9sbE5vIjoiMTIxMDQzMjA3MSJ9.LsVQU6fdURdohtLCP-zoyIHeARHVZAxl8czf40nlWjY",
+    "expires_in": 1724160587
+}
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0MTYyNTQ3LCJpYXQiOjE3MjQxNjIyNDcsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjNhYzJlNzJmLWZhMmUtNDhkMi1iNGU3LTFjNTdmYzQ4YjhmMyIsInN1YiI6ImFtaXR2ZXJtYXVwNTdAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoiQkJEIFVuaXZlcnNpdHkiLCJjbGllbnRJRCI6IjNhYzJlNzJmLWZhMmUtNDhkMi1iNGU3LTFjNTdmYzQ4YjhmMyIsImNsaWVudFNlY3JldCI6IndKdGVyWHpORWVycWJYS3kiLCJvd25lck5hbWUiOiJBbWl0IFZlcm1hIiwib3duZXJFbWFpbCI6ImFtaXR2ZXJtYXVwNTdAZ21haWwuY29tIiwicm9sbE5vIjoiMTIxMDQzMjA3MSJ9.l0BtSvH0sqtTdEhlAeaTdVcux4JpPpDuKygRaXTOqP0",
+    "expires_in": 1724162547
+}
